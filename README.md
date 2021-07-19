@@ -1,4 +1,5 @@
-#stock-bot
+#stock-bot 
+#authors: Curtis Toupin, Matt Hemsley
 This project is a collection of tools developed to investigate potential indicators for stock trends.
 
 There is a LSTM machine learning model (still under development) which is being trained to take in past stock prices and predict the stock's price some number of days in the future.
